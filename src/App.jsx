@@ -16,7 +16,7 @@ function App() {
 
       <div className="relative w-full flex justify-center ">
         <div>
-          <h1>vshinestudio.com</h1>
+          <h1 className="text-4xl md:text-6xl">vshinestudio.com</h1>
           <br />
           <hr />
           <br />
