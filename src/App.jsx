@@ -8,6 +8,7 @@ function App() {
         muted
         autoPlay
         loop
+        playsInline
       >
         <source src="/videos/21_22_reel-m-30s.mp4" type="video/mp4" />
       </video>
