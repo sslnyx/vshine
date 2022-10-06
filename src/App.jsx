@@ -9,7 +9,7 @@ function App() {
         autoPlay
         loop
       >
-        <source src="/videos/21_22_reel-m.mp4" type="video/mp4" />
+        <source src="/videos/21_22_reel-m-30s.mp4" type="video/mp4" />
       </video>
 
       <div className="bg-black w-full h-full absolute top-0 left-0 bg-opacity-40"></div>
